@@ -4,7 +4,7 @@
 This is a real multiuser chatting app built with flutter. Many user can chat using this app and messages will be sync sequentially. Single chat room is implemented in this application.
 Firebase is used for authentication and authorization. Firebase Realtime Database is used for data storing.
 
-To start with this project follow this instructions -
+**To start with this project follow these instructions -**
 
 - **Option 1**
 
