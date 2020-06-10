@@ -10,9 +10,9 @@ To start with this project follow this instructions -
 
   - First you have download and install `Android Studio`.
   - Open android studio and on starting window you will see `Check Out Project From Version Control` option. Under this select `Git` option and paste the folowing url in the url section.
-```
-https://github.com/codeslash21/flutter_chat_app.git
-```
+  ```
+  https://github.com/codeslash21/flutter_chat_app.git
+  ```
 
 - **Option 2**
 
